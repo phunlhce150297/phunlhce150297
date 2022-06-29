@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Phu.
-- 👀 I am a 3rd-year student at FPT University - Can Tho.
+- 👀 I am a 3rd-year student at FPT University - Can Tho, Viet Nam.
 - 🌱 I am gaining experience in many different areas of programming.
 - 🎯 My currently skill: JavaScript, Nodejs, and ASP.NET Core.
 - 📧 Contact me: 
